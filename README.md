@@ -2,33 +2,17 @@
 
 # 💫 About Me
 
-🔭 **Currently building** intelligent applications with AI, ML, and modern web technologies.
+🔭 Building AI-powered applications with modern web technologies.
 
-🌱 **Currently learning**
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Deep Learning
-- Advanced Data Structures & Algorithms
-- Cloud Deployment
+🌱 Learning Generative AI, LLMs, RAG, and Advanced DSA.
 
-👯 **Looking to collaborate on**
-- AI/ML Projects
-- Open Source
-- Full-Stack Development
-- Hackathons
+👯 Open to collaborating on AI/ML, Open Source, and Hackathon projects.
 
-🤝 **Looking for help with**
-- LLM Engineering
-- MLOps
-- AI Research
-- Scalable AI Systems
+🤝 Looking for help with LLM Engineering, MLOps, and AI Research.
 
-💬 **Ask me about**  
-Python • Machine Learning • NLP • Flask • FastAPI • React • SQL • MongoDB • Git • GitHub • IEEE Student Activities
+💬 Ask me about Python • AI/ML • NLP • Flask • React • SQL • Git
 
-⚡ **Fun fact**  
-I learn best by building—every new concept becomes a project.
+⚡ I learn best by building real-world projects.
 
 # 💻 Tech Stack
 
