@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=21&duration=2000&pause=1&color=7200F7&center=true&width=435&lines=Hello%2C+there!!+;Web+Developer;AIML+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=21&duration=2000&pause=1&color=7200F7&width=435&lines=Hello%2C+there!!+;Web+Developer;AIML+Enthusiast)](https://git.io/typing-svg)
 
 # 💫 About Me
 
