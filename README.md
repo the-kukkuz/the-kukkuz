@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Hello%2C+there!!+;Web+Developer+and+AIML+Enthusiast)](https://git.io/typing-svg)
+
 # 💫 About Me:
-🔭Ai<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭AIML Enthusiast <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
