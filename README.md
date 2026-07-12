@@ -8,8 +8,6 @@
 
 👯 Open to collaborating on AI/ML, Open Source, and Hackathon projects.
 
-🤝 Looking for help with LLM Engineering, MLOps, and AI Research.
-
 💬 Ask me about Python • AI/ML • NLP • Flask • React • SQL • Git
 
 ⚡ I learn best by building real-world projects.
